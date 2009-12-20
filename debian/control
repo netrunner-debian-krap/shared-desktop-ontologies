@@ -1,0 +1,14 @@
+Source: shared-desktop-ontologies
+Section: misc
+Priority: optional
+Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Sune Vuorela <debian@pusling.com>
+Build-Depends: debhelper (>= 7), quilt, cmake
+Standards-Version: 3.8.3
+
+Package: shared-desktop-ontologies
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: shared ontologies for semantic searching
+ This package provides a set of metadata ontologies for use in semantic
+ searching for the desktop.

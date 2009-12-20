@@ -1,0 +1,103 @@
+This package was debianized by Jonathan Thomas <echidnaman@kubuntu.org
+on Tue, 01 Dec 2009 10:12:41 -0500
+
+It was downloaded from http://websvn.kde.org/
+
+Copyright © 2007 NEPOMUK Consortium
+Copyright © 2009 Sebastian Trueg <trueg@kde.org>
+Copyright © 2009 Leo Sauermann <leo.sauermann@dfki.de>
+Copyright © 1995-2009 DCMI
+Copyright © 2007-2009 DFKI
+Copyright © 2004 W3C (MIT, ERCIM, Keio)
+
+
+CC-BY License used:
+
+ You are free:
+  * to Share - to copy, distribute and transmit the work
+  * to Remix - to adapt the work
+ Under the following conditions:
+  * Attribution - You must attribute the work in the manner specified by the author
+    or licensor (but not in any way that suggests that they endorse you or your use
+    of the work).
+
+ Redistribution and use in source and binary forms, with or without modification,
+ are permitted provided that the following conditions are met:
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright notice, this
+    list of conditions and the following disclaimer in the documentation and/or
+    other materials provided with the distribution.
+  * Neither the names of the authors nor the names of contributors may
+    be used to endorse or promote products derived from this ontology without
+    specific prior written permission.
+
+BSD license used: (LICENSE.BSD)
+You are free:
+ * to Share - to copy, distribute and transmit the work
+ * to Remix - to adapt the work
+Under the following conditions:
+ * Attribution - You must attribute the work in the manner specified by the author
+   or licensor (but not in any way that suggests that they endorse you or your use
+   of the work).
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice, this
+   list of conditions and the following disclaimer in the documentation and/or
+   other materials provided with the distribution.
+ * Neither the names of the authors nor the names of contributors may
+   be used to endorse or promote products derived from this ontology without
+   specific prior written permission.
+
+THIS ONTOLOGY IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+THIS ONTOLOGY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+All files are licensed with the CC-BY license or the described BSD license, aside
+from those licensed under the W3C BSD License variant, see below.
+
+W3C BSD License variant: (base/LICENSE.W3C)
+By obtaining, using and/or copying this work, you (the licensee) agree that you have
+read, understood, and will comply with the following terms and conditions.
+Permission to copy, modify, and distribute this software and its documentation, with
+or without modification, for any purpose and without fee or royalty is hereby granted,
+provided that you include the following on ALL copies of the software and documentation
+or portions thereof, including modifications:
+The full text of this NOTICE in a location viewable to users of the redistributed or
+derivative work.
+Any pre-existing intellectual property disclaimers, notices, or terms and conditions.
+If none exist, the W3C Software Short Notice should be included (hypertext is preferred,
+text is permitted) within the body of any redistributed or derivative code.
+Notice of any changes or modifications to the files, including the date changes were
+made. (We recommend you provide URIs to the location from which the code is derived.)
+
+Disclaimers
+THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND COPYRIGHT
+HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY OR FITNESS
+FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE SOFTWARE OR DOCUMENTATION
+WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER
+RIGHTS. COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,
+SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
+
+The name and trademarks of copyright holders may NOT be used in advertising or publicity
+pertaining to the software without specific, written prior permission. Title to copyright
+in this software and any associated documentation will at all times remain with copyright
+holders.
+
+Files licensed under the W3C BSD license variant:
+ -base/dcterms.trig
+ -base/rdf.trig
+
+The Debian packaging is Copyright © 2009, Jonathan Thomas <echidnaman@kubuntu.org>,
+and is licensed under the same license as the software, the BSD license, see above.

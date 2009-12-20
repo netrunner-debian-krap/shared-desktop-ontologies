@@ -1,0 +1,16 @@
+shared-desktop-ontologies (0.2.0-1) unstable; urgency=low
+
+  * Steal package from ubuntu. Thanks.
+  * Move the 'add licenses' patches into quilt
+  * Don't use pkg-kde-tools, it is not needed here.
+
+ -- Sune Vuorela <debian@pusling.com>  Mon, 21 Dec 2009 00:13:15 +0100
+
+shared-desktop-ontologies (0.2.0~repack1-0ubuntu1) lucid; urgency=low
+
+  * Initial release
+  * Repack tarball:
+    - Add base/LICENSE to declare the CC-By license used by the DCMI
+    - Add base/LICENSE.W3C to declare the BSD licence used by the W3C
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Tue, 01 Dec 2009 12:33:12 -0500
