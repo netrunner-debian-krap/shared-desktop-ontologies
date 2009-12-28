@@ -2,6 +2,8 @@ shared-desktop-ontologies (0.2.0-1) unstable; urgency=low
 
   * Steal package from ubuntu. Thanks.
   * Move the 'add licenses' patches into quilt
+  * Update copyright file, including full cc-by text and noticing it 
+    cc-by 3.0
   * Don't use pkg-kde-tools, it is not needed here.
 
  -- Sune Vuorela <debian@pusling.com>  Mon, 21 Dec 2009 00:13:15 +0100
