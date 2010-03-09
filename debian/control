@@ -8,7 +8,7 @@ Standards-Version: 3.8.4
 
 Package: shared-desktop-ontologies
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}
 Description: shared ontologies for semantic searching
  This package provides a set of metadata ontologies for use in semantic
  searching for the desktop.
