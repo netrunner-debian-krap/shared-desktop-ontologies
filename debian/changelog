@@ -11,8 +11,9 @@ shared-desktop-ontologies (0.3-0r1) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.8.4, no changes required.
   * Remove ${shlibs:Depends} from shared-desktop-ontologies, as it is arch:all.
   * Update copyright.
+  * Add the Homepage, Vcs-Svn, and Vcs-Browser fields in control.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Mar 2010 15:10:05 +0100
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Mar 2010 15:57:02 +0100
 
 shared-desktop-ontologies (0.2.0-1) unstable; urgency=low
 
