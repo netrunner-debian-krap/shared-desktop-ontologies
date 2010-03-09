@@ -7,8 +7,9 @@ shared-desktop-ontologies (0.3-0r1) UNRELEASED; urgency=low
     sources.
   * Remove the Build-Depend on quilt and the usage of the quilt dh addon,
     no more needed now.
+  * Add a watch file.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Mar 2010 13:02:57 +0100
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Mar 2010 13:07:59 +0100
 
 shared-desktop-ontologies (0.2.0-1) unstable; urgency=low
 
