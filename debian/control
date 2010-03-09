@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <debian@pusling.com>
 Build-Depends: debhelper (>= 7), cmake
-Standards-Version: 3.8.3
+Standards-Version: 3.8.4
 
 Package: shared-desktop-ontologies
 Architecture: all
