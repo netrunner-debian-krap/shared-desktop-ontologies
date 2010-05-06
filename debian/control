@@ -13,5 +13,8 @@ Package: shared-desktop-ontologies
 Architecture: all
 Depends: ${misc:Depends}
 Description: shared ontologies for semantic searching
- This package provides a set of metadata ontologies for use in semantic
- searching for the desktop.
+ This package provides a set of metadata ontologies in TRIG format for use
+ in semantic searching for the desktop.
+ .
+ It contains the well known core ontologies such as RDF and RDFS as well as
+ the Nepomuk ontologies which are used by projects like KDE and Strigi.
