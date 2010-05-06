@@ -1,4 +1,4 @@
-shared-desktop-ontologies (0.4-0r1) UNRELEASED; urgency=low
+shared-desktop-ontologies (0.4-1) unstable; urgency=low
 
   * New upstream release.
 
@@ -7,7 +7,7 @@ shared-desktop-ontologies (0.4-0r1) UNRELEASED; urgency=low
   * Set the compression to bzip2.
   * Expand the description a bit more.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 06 May 2010 11:46:58 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 06 May 2010 22:07:34 +0200
 
 shared-desktop-ontologies (0.3-1) unstable; urgency=low
 
