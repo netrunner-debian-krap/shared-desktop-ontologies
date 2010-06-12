@@ -1,3 +1,10 @@
+shared-desktop-ontologies (0.5-1) unstable; urgency=low
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 12 Jun 2010 13:16:47 +0200
+
 shared-desktop-ontologies (0.4-1) unstable; urgency=low
 
   * New upstream release.
