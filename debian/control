@@ -6,8 +6,8 @@ Uploaders: Sune Vuorela <debian@pusling.com>, Pino Toscano <pino@kde.org>
 Build-Depends: debhelper (>= 7), cmake
 Standards-Version: 3.8.4
 Homepage: http://oscaf.sourceforge.net
-Vcs-Svn: svn://svn.debian.org/pkg-kde/krap/shared-desktop-ontologies/trunk/
-Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/krap/shared-desktop-ontologies/trunk/
+Vcs-Git: git://git.debian.org/pkg-kde/krap/shared-desktop-ontologies.git
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/krap/shared-desktop-ontologies.git
 DM-Upload-Allowed: yes
 
 Package: shared-desktop-ontologies

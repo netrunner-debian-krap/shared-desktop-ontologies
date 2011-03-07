@@ -1,6 +1,7 @@
 shared-desktop-ontologies (0.6.0-0r1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Change the Vcs-* headers to the new Git repository location.
 
  -- Pino Toscano <pino@kde.org>  Mon, 07 Mar 2011 11:27:57 +0100
 
