@@ -3,7 +3,7 @@ Section: misc
 Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <debian@pusling.com>, Pino Toscano <pino@kde.org>
-Build-Depends: debhelper (>= 7), cmake
+Build-Depends: debhelper (>= 7), cmake (>= 2.6)
 Standards-Version: 3.9.1
 Homepage: http://oscaf.sourceforge.net
 Vcs-Git: git://git.debian.org/pkg-kde/krap/shared-desktop-ontologies.git
