@@ -4,7 +4,7 @@ shared-desktop-ontologies (0.6.0-1) unstable; urgency=low
   * Change the Vcs-* headers to the new Git repository location.
   * Bump Standards-Version to 3.9.1, no changes required.
   * Bump the cmake build dependency to what is specified in the upstream
-    CMakeLists.txt (i.e 2.6)
+    CMakeLists.txt (i.e. 2.6).
 
  -- Pino Toscano <pino@kde.org>  Mon, 07 Mar 2011 11:47:28 +0100
 
