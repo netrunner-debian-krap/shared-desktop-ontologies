@@ -1,3 +1,8 @@
+shared-desktop-ontologies (0.6.0-2) UNRELEASED; urgency=low
+
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Aug 2011 18:03:07 +0200
+
 shared-desktop-ontologies (0.6.0-1) unstable; urgency=low
 
   * New upstream release.
