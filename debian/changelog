@@ -1,4 +1,4 @@
-shared-desktop-ontologies (0.7.1-0r0) UNRELEASED; urgency=low
+shared-desktop-ontologies (0.7.1-1) experimental; urgency=low
 
   [ José Manuel Santamaría Lema ]
   * New upstream release.
@@ -10,7 +10,7 @@ shared-desktop-ontologies (0.7.1-0r0) UNRELEASED; urgency=low
   * Update copyright.
   * Do not compress the debian tar with bzip2, as the gain is basically none.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Aug 2011 18:03:07 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 13 Aug 2011 00:48:28 +0200
 
 shared-desktop-ontologies (0.6.0-1) unstable; urgency=low
 
