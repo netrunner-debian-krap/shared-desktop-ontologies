@@ -8,7 +8,6 @@ Standards-Version: 3.9.1
 Homepage: http://oscaf.sourceforge.net
 Vcs-Git: git://git.debian.org/pkg-kde/krap/shared-desktop-ontologies.git
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/krap/shared-desktop-ontologies.git
-DM-Upload-Allowed: yes
 
 Package: shared-desktop-ontologies
 Architecture: all

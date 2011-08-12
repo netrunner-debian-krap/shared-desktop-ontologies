@@ -5,6 +5,7 @@ shared-desktop-ontologies (0.7.1-0r0) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * Switch my address to @debian.org, I'm a DD now.
+  * Remove "DM-Upload-Allowed" from control, no more needed now.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Aug 2011 18:03:07 +0200
 
