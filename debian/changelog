@@ -1,5 +1,6 @@
 shared-desktop-ontologies (0.7.1-0r0) UNRELEASED; urgency=low
 
+  [ José Manuel Santamaría Lema ]
   * New upstream release.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Aug 2011 18:03:07 +0200
