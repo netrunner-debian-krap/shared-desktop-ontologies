@@ -1,6 +1,9 @@
 shared-desktop-ontologies (0.8.0-0r1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Rework copyright:
+    - switch it to DEP5, r174
+    - massively update it and be more specific with licenses and copyrights
 
  -- Pino Toscano <pino@debian.org>  Thu, 01 Sep 2011 14:54:21 +0200
 
