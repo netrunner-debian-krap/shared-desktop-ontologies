@@ -11,7 +11,7 @@ Copyright: Copyright 2007-2009, DFKI
            Copyright 2007, NEPOMUK Consortium
            Copyright 2009-2010, Evgeny Egorochkin <phreedom.stdin@gmail.com>
            Copyright 2009, Leo Sauermann <leo.sauermann@dfki.de>
-           Copyright 2009-2011, Sebastian Trueg <trueg@kde.org>
+           Copyright 2009-2012, Sebastian Trueg <trueg@kde.org>
            Copyright 2010, Andrew Lake <jamboarder@yahoo.com>
 License: BSD-3-clause-ontologies or CC-BY-SA-3.0
 
@@ -39,7 +39,7 @@ License: GPL-2+
 Files: debian/*
 Copyright: Copyright 2009, Jonathan Thomas <echidnaman@kubuntu.org>
            Copyright 2009, Sune Vuorela <debian@pusling.com>
-           Copyright 2010-2011, Pino Toscano <pino@debian.org>
+           Copyright 2010-2012, Pino Toscano <pino@debian.org>
 License: BSD-3-clause
 
 
