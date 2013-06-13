@@ -1,11 +1,10 @@
-shared-desktop-ontologies (0.11.0-0r1) UNRELEASED; urgency=low
+shared-desktop-ontologies (0.11.0-1) unstable; urgency=low
 
-  [ Pino Toscano ]
   * New upstream release.
   * Bump Standards-Version to 3.9.4, no changes required.
   * Update Vcs-* headers.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 13 Jun 2013 14:06:35 +0200
+ -- Pino Toscano <pino@debian.org>  Thu, 13 Jun 2013 14:18:31 +0200
 
 shared-desktop-ontologies (0.10.0-1) unstable; urgency=low
 
